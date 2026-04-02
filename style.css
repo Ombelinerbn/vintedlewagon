@@ -1,0 +1,21 @@
+/* Import components */
+@import url("components/banner.css");
+@import url("components/card.css");
+
+/* Global styles */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  font-size: 16px;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
